@@ -11,7 +11,7 @@ Esses projetos foram realizados no bootcamp profissionalizante de ciência de da
 | [Analise do Risco de Inadimplência dos Mutuarios](analise-do-risco-de-inadimplência-dos-mutuarios) | Projeto Final Sprint 2 | Determinar se o estado civil de um cliente e o número de filhos têm impacto sobre se ele deixará de pagar um empréstimo e criar uma pontuação de crédito pra ele.| *pandas* |
 | [Lista de Eixo de Manivela](eixo-de-manivela) | Projeto Final Sprint 3 | Centenas de propagandas gratuitas de veículos são publicadas no site "Lista de Eixo de Manivela". O objetivo é estudar os dados coletados nos últimos anos para determinar quais fatores influenciam no preço de um veículo. | *pandas*, *numpy*, *matplotlib* e *seaborn*|
 | [Turnover](turnover) | Projeto Webinar | Determinar a propensão de um funcionário pedir demissão. | *pandas*, *numpy*, *matplotlib* e *seaborn*|
-| [Estatística Descritiva]() | Projeto Webinar | Neste Webinar foi colocado em prática alguns métodos e cáculos para descrever os nossos dados | *pandas* e *numpy* |
+| [Estatística Descritiva](estatistica-descritiva) | Projeto Webinar | Neste Webinar foi colocado em prática alguns métodos e cáculos para descrever os nossos dados | *pandas* e *numpy* |
 | [Telecomunicações Megaline Planos Pré-Pago]() | Projeto Final Sprint 4 | A empresa de telecomunicações Megaline oferece aos seus cliente planos pré-pagos, Surf e Ultimate e o objetivo é determinar qual plano pré-pago dá mais receita para a empresa, afim de ajustar o orçamento de publicidade. | *pandas*, *numpy*, *math* e *scipy*|
 
 <br>
@@ -33,6 +33,6 @@ These projects were completed for Practicum's Data Scientist professional traini
 | [Analysis of Borrowers' Default Risk](analise-do-risco-de-inadimplência-dos-mutuarios) | Sprint 2 Final Project | Determining if the customer's marital status and number of children impact whether he will default on a loan and create a credit score for him.| *pandas* |
 | [Crankshaft List](eixo-de-manivela) | Sprint 3 Final Project | Hundreds of vehicle advertisements are posted on the "Crankshaft List" website. The objective is to study the data collected in recent years to determine which factors influence the price of a vehicle. | *pandas*, *numpy*, *matplotlib* and *seaborn*|
 | [Turnover](turnover) | Webinar Project | Determine an employee's propensity to quit. | *pandas*, *numpy*, *matplotlib* and *seaborn*|
-| [Descriptive statistics]() | Webinar Project | In this Webinar, some methods and calculations were put into practice to describe our data | *pandas* and *numpy* |
-| [Telecommunications Megaline Prepaid Plans](musica-da-cidade-grande) | Sprint 4 Final Project | The telecommunication company Megaline offers its customers prepaid plans, Surf and Ultimate, and the objective is to determine which prepaid plan brings more revenue to the company, in order to adjust the advertising budget. | *pandas*, *numpy*, *math* and *scipy*|
+| [Descriptive statistics](estatistica-descritiva) | Webinar Project | In this Webinar, some methods and calculations were put into practice to describe our data | *pandas* and *numpy* |
+| [Telecommunications Megaline Prepaid Plans]() | Sprint 4 Final Project | The telecommunication company Megaline offers its customers prepaid plans, Surf and Ultimate, and the objective is to determine which prepaid plan brings more revenue to the company, in order to adjust the advertising budget. | *pandas*, *numpy*, *math* and *scipy*|
 
